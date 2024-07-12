@@ -49,7 +49,7 @@ The following Python libraries were used throughout the certification: <br>
 
 ## 📂 Projects
 
-Read more below:
+
 
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
@@ -88,3 +88,10 @@ Read more below:
 
 
 ## 🏆 Certificates 
+
+<p align="middle">
+  <a href="[https://coursera.org/share/50979ab49c9c006f9bf43312ea3c24b8](https://www.coursera.org/account/accomplishments/specialization/certificate/QBDUH2VHDWJX)">
+
+https://www.coursera.org/account/accomplishments/specialization/certificate/QBDUH2VHDWJX
+
+  
