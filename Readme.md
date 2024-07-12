@@ -5,9 +5,8 @@
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/rad719/IBM-Data-Science/blob/main/ibm.svg" title="IBM logo" alt = "IBM logo" />
+ <img src="[https://raw.githubusercontent.com/rad719/IBM-Data-Science/blob/main/ibm.svg](https://github.com/rad719/IBM-Data-Science/blob/main/ibm.svg)" title="IBM logo" alt = "IBM logo" />
 </p>
-https://github.com/rad719/IBM-Data-Science/blob/main/ibm.svg
 ## About this Professional Certificate
 
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a **career in data science** or **machine learning** develop career-relevant skills and experience.
