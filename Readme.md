@@ -90,4 +90,7 @@ The following Python libraries were used throughout the certification: <br>
 ## 🏆 Certificates 
 
 <p align="middle">
-  <a href="[https://coursera.org/share/50979ab49c9c006f9bf43312ea3c24b8](https://www.coursera.org/account/accomplishments/specialization/certificate/QBDUH2VHDWJX)"><img scr="https://github.com/rad719/IBM-Data-Science/raw/main/Resource/Data%20Science.png" height="450"></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QBDUH2VHDWJX"><img scr="https://github.com/rad719/IBM-Data-Science/raw/main/Resource/Data%20Science.png" height="450"></a>
+
+<img scr="https://github.com/rad719/IBM-Data-Science/blob/main/Resource/Data%20Science.png">
+ 
