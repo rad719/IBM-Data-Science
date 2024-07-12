@@ -1,13 +1,11 @@
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/IBM-Data-Science-Professional-Certification.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/IBM-Data-Science-Professional-Certification?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/Thomas-George-T/IBM-Data-Science-Professional-Certification?style=flat)
-
+![ViewCount](https://views.whatilearened.today/views/github/rad719/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+https://github.com/rad719/IBM-Data-Science/blob/main/ibm.svg
 # IBM Data Science Professional Certificate
 
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
+ <img src="https://raw.githubusercontent.com/rad719/IBM-Data-Science/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
 
 ## About this Professional Certificate
