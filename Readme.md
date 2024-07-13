@@ -92,5 +92,5 @@ The following Python libraries were used throughout the certification: <br>
 <p align="middle">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QBDUH2VHDWJX"><img scr="https://github.com/rad719/IBM-Data-Science/raw/main/Resource/Data%20Science.png" height="400"></a>
 
-[testcasesimage](https://github.com/rad719/IBM-Data-Science/raw/main/Resource/Data%20Science.png)
+![ezcv logo](https://github.com/rad719/IBM-Data-Science/raw/main/Resource/Data%20Science.png)
  
